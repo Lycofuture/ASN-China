@@ -15,8 +15,8 @@ jobs:
         with:
           node-version: 20
       - run: |
-          cd scripts
           npm i
+          cd scripts
           node ChinaASN.js
 
       - uses: stefanzweifel/git-auto-commit-action@v4
