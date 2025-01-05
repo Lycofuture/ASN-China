@@ -17,7 +17,7 @@ rule-providers:
     type: http
     behavior: classical
     url: "https://raw.githubusercontent.com/Lycofuture/ASN-China/main/ASN.China.yaml"
-    path: ./ruleset/ChinaASN.yaml
+    path: ./ruleset/ASN.China.yaml
     interval: 86400
 ```
 
