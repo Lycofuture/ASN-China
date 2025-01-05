@@ -1,0 +1,24 @@
+name: Update ASN and IP List
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * *"
+
+jobs:
+  build: 
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: |
+          cd scripts
+          npm i
+          node ChinaASN.js
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update IP List
