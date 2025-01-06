@@ -103,7 +103,9 @@ async function saveLatestASN() {
         const output = {
             payload: payload
         };
-        fs.appendFileSync('ASN.China.yaml', yaml.dump(output), { encoding: 'utf8' });
+        let yamlString = yaml.dump(output, { lineWidth: -1 });
+        yamlString = yamlString.replace(/'/g, '');
+        fs.appendFileSync('ASN.China.yaml', yamlString, { encoding: 'utf8' });
         logger.info("ASN 数据写入成功！");
     } catch (error) {
         logger.error('请求 ASN 数据失败:', error);
