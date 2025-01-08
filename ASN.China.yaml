@@ -1,5 +1,5 @@
 // 中国的 ASN 信息。 (https://github.com/Lycofuture/ASN-China)
-// 最后更新： CST 2025-01-08 00:27:03
+// 最后更新： CST 2025-01-09 00:11:10
 // 由 Lycofuture 制作，保留所有权利。
 
 payload:
@@ -23,12 +23,12 @@ payload:
   - IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
   - IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
   - IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
-  - IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
   - IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
   - IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
+  - IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
   - IP-ASN,7497 // CNIC-CAS
-  - IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
   - IP-ASN,4842 // Tianhai InfoTech
+  - IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
   - IP-ASN,134578 // UNION FU WAH DIGITAL TECHNOLOGY LIMITED
   - IP-ASN,56040 // China Mobile communications corporation
   - IP-ASN,9929 // China Netcom Backbone
@@ -66,6 +66,7 @@ payload:
   - IP-ASN,17623 // China Unicom Shenzen network
   - IP-ASN,152320 // Goalnow Network Technology Co Limited
   - IP-ASN,136173 // Quanzhou Yuntun Network Technology Co., Ltd.
+  - IP-ASN,9812 // Oriental Cable Network Co., Ltd.
   - IP-ASN,63646 // Beijing Xiaoju Science and Technology Co., Ltd.
   - IP-ASN,58461 // China Telecom HangZhou IDC
   - IP-ASN,56041 // China Mobile Communications Corporation
@@ -76,7 +77,6 @@ payload:
   - IP-ASN,150173 // PoloCloud Computing (Hong Kong) Limited
   - IP-ASN,139138 // Gopay Information Technology Co.,Ltd
   - IP-ASN,134774 // CHINANET Guangdong province Shenzhen MAN network
-  - IP-ASN,9812 // Oriental Cable Network Co., Ltd.
   - IP-ASN,63648 // Beijing Xiaoju Science and Technology Co., Ltd.
   - IP-ASN,59078 // Yunify Technologies Inc.
   - IP-ASN,58850 // Bloomberg Financial Information (Beijing) Co Ltd
@@ -114,7 +114,6 @@ payload:
   - IP-ASN,212237 // Changgong Zhang
   - IP-ASN,209294 // Fan Zhang
   - IP-ASN,17816 // China Unicom IP network China169 Guangdong province
-  - IP-ASN,139742 // Peddie Institute Co., Ltd
   - IP-ASN,139721 // HeFei
   - IP-ASN,139148 // China UnionPay Co., Ltd
   - IP-ASN,138950 // Jiangsu Wuxi International IDC network
@@ -160,7 +159,6 @@ payload:
   - IP-ASN,135432 // Visa Information Technology Beijing Co. Ltd.
   - IP-ASN,135061 // China Unicom Guangdong IP network
   - IP-ASN,134542 // China Unicom IP network
-  - IP-ASN,131578 // Beijing Foreign Studies University
   - IP-ASN,131574 // Beijing Haiyu Technology Co. Ltd..
   - IP-ASN,131486 // Beijing Jingdong 360 Degree E-commerce Co., Ltd.
   - IP-ASN,9818 // Internet Finance Laboratory
@@ -262,6 +260,7 @@ payload:
   - IP-ASN,133774 // China Telecom Fujian Fuzhou IDC
   - IP-ASN,133475 // New York University
   - IP-ASN,132225 // CHINATELECOM QINGHAI 5G NETWORK
+  - IP-ASN,131578 // Beijing Foreign Studies University
   - IP-ASN,131536 // Shanghai Great Wall Broadband Network Service Co., Ltd.
   - IP-ASN,131519 // Hisense
   - IP-ASN,131285 // CHINATELECOM Hubei province Shengji 5G network
@@ -366,6 +365,7 @@ payload:
   - IP-ASN,140061 // Qinghai Telecom
   - IP-ASN,139887 // CHINANET YANTAI IDC
   - IP-ASN,139767 // CHINANET OA
+  - IP-ASN,139742 // Peddie Institute Co., Ltd
   - IP-ASN,139462 // CHINANET Guizhou Yilong IDC
   - IP-ASN,139220 // Sichuan Chuanxn IDC
   - IP-ASN,139201 // CHINANET JIANGXI JIUJIANG IDC
@@ -685,7 +685,6 @@ payload:
   - IP-ASN,215502 // Xing Qingyu
   - IP-ASN,215007 // BOZHAN LIANG
   - IP-ASN,214963 // Puhe You
-  - IP-ASN,214948 // Jiakai Gu
   - IP-ASN,214921 // Yisong Wang
   - IP-ASN,214911 // Li Hang
   - IP-ASN,214899 // Ye Liliang
