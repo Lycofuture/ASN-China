@@ -1,5 +1,5 @@
 // 中国的 ASN 信息。 (https://github.com/Lycofuture/ASN-China)
-// 最后更新： CST 2025-01-12 00:10:07
+// 最后更新： CST 2025-01-13 00:09:32
 // 由 Lycofuture 制作，保留所有权利。
 
 payload:
@@ -23,9 +23,9 @@ payload:
   - IP-ASN,133865 // Beijing IQIYI Science & Technology Co., Ltd.
   - IP-ASN,58879 // Shanghai ruisu network technology co.,LTD
   - IP-ASN,24400 // Shanghai Mobile Communications Co.,Ltd.
-  - IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
   - IP-ASN,146762 // NATIONAL(SHANGHAI) NEW-TYPE INTERNET EXCHANGE POINT
   - IP-ASN,142111 // Zhejiang Aiyun Network Technology Co Ltd
+  - IP-ASN,139799 // Beijing Dajia Internet Information Technology Co., Ltd.
   - IP-ASN,7497 // CNIC-CAS
   - IP-ASN,4842 // Tianhai InfoTech
   - IP-ASN,146834 // SiChuan XunYou Network Technologe Limit, co
@@ -43,8 +43,8 @@ payload:
   - IP-ASN,140633 // BILIBILI HK LIMITED
   - IP-ASN,55990 // Huawei Cloud Service data center
   - IP-ASN,137718 // Beijing Volcano Engine Technology Co., Ltd.
-  - IP-ASN,9384 // MIKU NETWORK LIMITED
   - IP-ASN,55996 // CYPRESS TELECOM (CHINA) LIMITED
+  - IP-ASN,9384 // MIKU NETWORK LIMITED
   - IP-ASN,24490 // Trans-Eurasia Information Network (TEIN2) - SG
   - IP-ASN,10212 // China Enterprise ICT Solutions Limited
   - IP-ASN,58466 // CT GUANGZHOU IDC
@@ -712,6 +712,7 @@ payload:
   - IP-ASN,213769 // wang guanwei
   - IP-ASN,213700 // Yuhan Wang
   - IP-ASN,213625 // Xuluo Chen
+  - IP-ASN,213605 // Liu HaoRan
   - IP-ASN,212793 // Xiwei Ye
   - IP-ASN,212690 // Enyu Li
   - IP-ASN,212532 // XIAO YANG WEN RUI
@@ -5227,7 +5228,6 @@ payload:
   - IP-ASN,133492 // AIYUN
   - IP-ASN,132623 // Tsukeru Networks
   - IP-ASN,132479 // Xue Desen
-  - IP-ASN,131526 // XINJIANG BROADCAST NETWORK CO.,LTD
   - IP-ASN,131521 // Haitong Securities Company Limited
   - IP-ASN,131137 // Inspur Software Group Co., Ltd.
   - IP-ASN,131075 // Qingyuan Tianxingyun Network Technology Co Ltd
